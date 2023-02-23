@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(Images/erik-dungan-MQyCrJVFG8U-unsplash.jpg);
+    font-style: sans-serif;
+    padding: 50px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    padding-top: 40px;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    font-family: 'Merriweather', serif;
+}
+
+h2 {
+    margin-bottom: 40px;
+}
+
+hr {
+    height: 5px;
+    width: 80%;
+    margin: 0 auto;
+    background: rgb(169, 110, 0);
+    border-color:rgb(169, 110, 0);
+}
+
+.tag-line {
+    margin-bottom: 40px;
+}
+
+.sandos-section h2 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.menu {
+    width: 80%;
+    background-color: #d3d3d3;
+    margin: 0 auto;
+    max-width: 500px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.item p {
+    display: inline-block;
+}
+
+.sando {
+    text-align: left;
+    width: 50%;
+}
+    
+.price {
+    text-align: right;
+    width: 50%;
+}
+
+.sando-description {
+    text-align: left;
+    font-style: italic;
+    font-size: .75em;
+    padding-bottom: 25px;
+
+}
+
+.bottom-line {
+    margin-bottom: 30px;
+}
+
+a:hover {
+    color: rgb(229, 243, 241);
+}
+
+a:active {
+    color: Green;
+}
+
+footer {
+    padding-bottom: 50px;
+}
+
+.link {
+    margin-bottom: 20px;
+}
+
+address {
+    text-align: center;
+}
+
+img {
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
+
+.drinks {
+    margin-top:20px;
+}
+
+.drinks-pic {
+    width: 35px;
+    margin-bottom: 20px;
+}
